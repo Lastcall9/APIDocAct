@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as l,a4 as a}from"./chunks/framework.CI8or701.js";const _=JSON.parse('{"title":"对接前准备","description":"","frontmatter":{},"headers":[],"relativePath":"study/four.md","filePath":"study/four.md"}'),d={name:"study/four.md"},i=a("",7),n=[i];function r(s,f,y,g,h,x){return l(),e("div",null,n)}const c=t(d,[["render",r]]);export{_ as __pageData,c as default};

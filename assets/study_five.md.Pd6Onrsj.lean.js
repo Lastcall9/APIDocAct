@@ -1,1 +1,0 @@
-import{_ as t,c as s,o as i,a4 as l}from"./chunks/framework.CI8or701.js";const E=JSON.parse('{"title":"接口 API","description":"","frontmatter":{},"headers":[],"relativePath":"study/five.md","filePath":"study/five.md"}'),e={name:"study/five.md"},a=l("",359),n=[a];function d(h,p,k,r,g,o){return i(),s("div",null,n)}const c=t(e,[["render",d]]);export{E as __pageData,c as default};
